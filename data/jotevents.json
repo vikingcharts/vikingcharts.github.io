@@ -1,0 +1,16 @@
+[
+  { "id": 1, "name": "VIP Points", "type": "Clan", "utc": "02:00", "day": 0 },
+  { "id": 2, "name": "VIP Points", "type": "Personal", "utc": "07:00", "day": 0 },
+  { "id": 3, "name": "Star Shards", "type": "Personal", "utc": "10:00", "day": 0 },
+  { "id": "G1", "name": "Glory Points", "type": "Clan", "utc": "13:00", "day": 0 },
+  { "id": 4, "name": "Marble", "type": "Clan", "utc": "16:00", "day": 0 },
+  { "id": 5, "name": "Marble", "type": "Personal", "utc": "19:00", "day": 0 },
+  { "id": 6, "name": "Star Shards", "type": "Clan", "utc": "21:30", "day": 0 },
+  { "id": "G2", "name": "Glory Points", "type": "Clan", "utc": "00:00", "day": 1 },
+  { "id": 7, "name": "Runic Coins", "type": "Personal", "utc": "04:00", "day": 1 },
+  { "id": 8, "name": "VIP Points", "type": "Clan", "utc": "08:00", "day": 1 },
+  { "id": 9, "name": "VIP Points", "type": "Personal", "utc": "12:00", "day": 1 },
+  { "id": 10, "name": "Alfheim Light", "type": "Clan", "utc": "15:00", "day": 1 },
+  { "id": 11, "name": "Star Shards", "type": "Clan", "utc": "18:00", "day": 1 },
+  { "id": 12, "name": "Alfheim Light", "type": "Personal", "utc": "21:30", "day": 1 }
+]

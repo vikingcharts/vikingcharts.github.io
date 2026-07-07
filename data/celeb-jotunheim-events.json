@@ -1,0 +1,180 @@
+{
+  "days": [
+    {
+      "day": "Day 1",
+      "events": [
+        {
+          "event": "Odin's Feast: Day One",
+          "type": "Throne",
+          "duration": "6h",
+          "day": 0,
+          "utc": "00:00"
+        },
+        {
+          "event": "Landmark Throne: Shards",
+          "type": "Throne",
+          "duration": "3h",
+          "day": 0,
+          "utc": "01:30"
+        },
+        {
+          "event": "VIP Points",
+          "type": "Personal",
+          "duration": "2h",
+          "day": 0,
+          "utc": "07:00"
+        },
+        {
+          "event": "Glory Points",
+          "type": "Clan",
+          "duration": "2h",
+          "day": 0,
+          "utc": "10:00"
+        },
+        {
+          "event": "Star Shards",
+          "type": "Personal",
+          "duration": "2h",
+          "day": 0,
+          "utc": "13:00"
+        },
+        {
+          "event": "VIP Points",
+          "type": "Clan",
+          "duration": "2h",
+          "day": 0,
+          "utc": "16:00"
+        },
+        {
+          "event": "Hero's Energy",
+          "type": "Personal",
+          "duration": "2h",
+          "day": 0,
+          "utc": "19:00"
+        },
+        {
+          "event": "Star Shards",
+          "type": "Clan",
+          "duration": "2h",
+          "day": 0,
+          "utc": "22:00"
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "events": [
+        {
+          "event": "Glory Points",
+          "type": "Clan",
+          "duration": "2h",
+          "day": 1,
+          "utc": "01:00"
+        },
+        {
+          "event": "Runic Coins",
+          "type": "Personal",
+          "duration": "2h",
+          "day": 1,
+          "utc": "04:00"
+        },
+        {
+          "event": "Odin's Feast: Day Two",
+          "type": "Throne",
+          "duration": "6h",
+          "day": 1,
+          "utc": "08:00"
+        },
+        {
+          "event": "Landmark Throne: Marble",
+          "type": "Throne",
+          "duration": "3h",
+          "day": 1,
+          "utc": "09:30"
+        },
+        {
+          "event": "VIP Points",
+          "type": "Personal",
+          "duration": "2h",
+          "day": 1,
+          "utc": "15:00"
+        },
+        {
+          "event": "Star Shards",
+          "type": "Clan",
+          "duration": "2h",
+          "day": 1,
+          "utc": "18:00"
+        },
+        {
+          "event": "Shaman's Power",
+          "type": "Personal",
+          "duration": "2h",
+          "day": 1,
+          "utc": "21:00"
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "events": [
+        {
+          "event": "Shaman's Power",
+          "type": "Clan",
+          "duration": "2h",
+          "day": 2,
+          "utc": "00:00"
+        },
+        {
+          "event": "Alfheim Light",
+          "type": "Personal",
+          "duration": "2h",
+          "day": 2,
+          "utc": "03:00"
+        },
+        {
+          "event": "Marble",
+          "type": "Clan",
+          "duration": "2h",
+          "day": 2,
+          "utc": "06:00"
+        },
+        {
+          "event": "Marble",
+          "type": "Personal",
+          "duration": "2h",
+          "day": 2,
+          "utc": "09:00"
+        },
+        {
+          "event": "Alfheim Light",
+          "type": "Clan",
+          "duration": "2h",
+          "day": 2,
+          "utc": "12:00"
+        },
+        {
+          "event": "Odin's Feast: Day Three",
+          "type": "Throne",
+          "duration": "6h",
+          "day": 2,
+          "utc": "15:00"
+        },
+        {
+          "event": "Landmark Throne: Light",
+          "type": "Throne",
+          "duration": "3h",
+          "day": 2,
+          "utc": "16:30"
+        },
+        {
+          "event": "Runic Coins",
+          "type": "Personal",
+          "duration": "2h",
+          "day": 2,
+          "utc": "21:30"
+        }
+      ]
+    }
+  ]
+}

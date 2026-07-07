@@ -1,0 +1,14 @@
+[
+  { "iana": "UTC", "name": "Coordinated Universal Time" },
+  { "iana": "Europe/London", "name": "Greenwich Mean Time" },
+  { "iana": "Europe/Paris", "name": "Central European Time" },
+  { "iana": "Europe/Kiev", "name": "Eastern European Time" },
+  { "iana": "Europe/Moscow", "name": "Moscow Time" },
+  { "iana": "America/New_York", "name": "Eastern Time" },
+  { "iana": "America/Chicago", "name": "Central Time" },
+  { "iana": "America/Denver", "name": "Mountain Time" },
+  { "iana": "America/Los_Angeles", "name": "Pacific Time" },
+  { "iana": "Asia/Tokyo", "name": "Japan Standard Time" },
+  { "iana": "Asia/Kolkata", "name": "India Standard Time" },
+  { "iana": "Australia/Sydney", "name": "Australia Eastern Time" }
+]

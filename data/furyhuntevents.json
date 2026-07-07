@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Hunt for Marks of Resolve", "type": "Clan", "utc": "06:30", "day": 0 },
+  { "id": 2, "name": "Furious Hunt", "type": "Personal", "utc": "15:30", "day": 0 },
+  { "id": 3, "name": "Hunt for Marks of Resolve", "type": "Clan", "utc": "09:30", "day": 1 },
+  { "id": 4, "name": "Furious Hunt", "type": "Personal", "utc": "18:30", "day": 1 }
+]
+

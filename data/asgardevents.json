@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Star Shards", "type": "Personal", "utc": "04:00", "day": 0 },
+  { "id": 2, "name": "VIP Points", "type": "Clan", "utc": "06:00", "day": 0 },
+  { "id": 3, "name": "VIP Points", "type": "Personal", "utc": "11:00", "day": 0 },
+  { "id": 4, "name": "Marks of Resolve", "type": "Clan", "utc": "15:00", "day": 0 },
+  { "id": 5, "name": "Runic Coins", "type": "Personal", "utc": "18:00", "day": 0 },
+  { "id": 6, "name": "Star Shards", "type": "Clan", "utc": "00:00", "day": 1 }
+]
