@@ -46,7 +46,7 @@
           "utc": "16:00"
         },
         {
-          "event": "Hero's Energy",
+          "event": "North Coins",
           "type": "Personal",
           "duration": "2h",
           "day": 0,
@@ -107,7 +107,7 @@
           "utc": "18:00"
         },
         {
-          "event": "Shaman's Power",
+          "event": "North Coins",
           "type": "Personal",
           "duration": "2h",
           "day": 1,
@@ -168,7 +168,7 @@
           "utc": "16:30"
         },
         {
-          "event": "Runic Coins",
+          "event": "North Coins",
           "type": "Personal",
           "duration": "2h",
           "day": 2,
