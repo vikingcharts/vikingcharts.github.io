@@ -25,13 +25,6 @@
           "utc": "07:00"
         },
         {
-          "event": "Glory Points",
-          "type": "Clan",
-          "duration": "2h",
-          "day": 0,
-          "utc": "10:00"
-        },
-        {
           "event": "Star Shards",
           "type": "Personal",
           "duration": "2h",
@@ -65,7 +58,7 @@
       "day": "Day 2",
       "events": [
         {
-          "event": "Glory Points",
+          "event": "VIP Points",
           "type": "Clan",
           "duration": "2h",
           "day": 1,
@@ -118,13 +111,6 @@
     {
       "day": "Day 3",
       "events": [
-        {
-          "event": "Shaman's Power",
-          "type": "Clan",
-          "duration": "2h",
-          "day": 2,
-          "utc": "00:00"
-        },
         {
           "event": "Alfheim Light",
           "type": "Personal",
